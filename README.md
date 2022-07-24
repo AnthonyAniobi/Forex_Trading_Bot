@@ -10,6 +10,14 @@ This is a forex trading bot built in python for trading that would make use of b
 
 # Strategy
 The strategy implemented in this bot is as follows
+- trade on quiet markets
+- make use of support and resistance lines
+
+# Links
+- documentation for [xtb Api](http://developers.xstore.pro/documentation)
 
 # Tasks to complete
 - [ ] setup project
+- [ ] include fast api
+- [ ] get all required api keys
+- [ ] test loggin in to the api
